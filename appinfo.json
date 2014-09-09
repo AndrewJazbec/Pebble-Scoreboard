@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "andrew.jazbec@gmail.com",
+    "longName": "Scoreboard",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Scoreboard",
+    "uuid": "03ee1e23-a69a-4116-8abd-b0998efb7ab1",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
